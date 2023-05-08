@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Wall1
+  - stairs
+  - downstairs
+  - Wall2
+  - Sword
   layers:
   - Default
   - TransparentFX
